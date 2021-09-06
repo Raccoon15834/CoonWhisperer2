@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoonWhisperer</string>
+    <string name="defaultMessage">Talk to a raccoon! Pick message, personalize message, display a message.</string>
+    <string name="switchButtonDesc">Raccoon Button</string>
+    <string name="pickLangLabel">Pick a Language (:3</string>
+    <string name="catLangBtn">Cat language</string>
+    <string name="ltrUpBtn">All caps</string>
+    <string name="coonLangBtn">Coon language</string>
+    <string name="defaultTxtMsg">Your message will appear here as you work on it.</string>
+</resources>

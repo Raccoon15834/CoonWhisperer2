@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="messagesArray">
+        <item>Elloo! I\'m __.</item>
+        <item>Do you want to __.</item>
+        <item>My favorite food is __. Want some __. </item>
+        <item>Yooou stole my __!!!!</item>
+    </string-array>
+</resources>
